@@ -73,7 +73,7 @@
           <dependency>
             <groupId>com.uber.nullaway</groupId>
             <artifactId>nullaway</artifactId>
-            <version>0.3.0</version>
+            <version>0.10.11</version>
         </dependency>
         <dependency>
             <groupId>org.codehaus.plexus</groupId>
