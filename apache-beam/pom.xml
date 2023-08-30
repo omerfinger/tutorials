@@ -36,7 +36,7 @@
     </dependencies>
 
     <properties>
-        <beam.version>2.19.0</beam.version>
+        <beam.version>2.50.0</beam.version>
         <assertj.version>3.6.1</assertj.version>
     </properties>
 
