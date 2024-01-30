@@ -53,6 +53,6 @@
     <properties>
         <jsoniter.version>0.9.23</jsoniter.version>
         <assertj-core.version>3.11.1</assertj-core.version>
-        <moshi.version>1.9.2</moshi.version>
+        <moshi.version>1.15.1</moshi.version>
     </properties>
 </project>
