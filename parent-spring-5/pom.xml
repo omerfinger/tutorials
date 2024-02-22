@@ -31,8 +31,8 @@
     </dependencies>
 
     <properties>
-        <spring.version>5.2.5.RELEASE</spring.version>
-        <spring-security.version>5.2.3.RELEASE</spring-security.version>
+        <spring.version>5.3.32</spring.version>
+        <spring-security.version>5.8.10</spring-security.version>
     </properties>
 
 </project>
