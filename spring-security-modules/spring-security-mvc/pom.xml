@@ -90,7 +90,7 @@
     </dependencies>
     
     <properties>
-        <spring.mvc.version>5.2.2.RELEASE</spring.mvc.version>
+        <spring.mvc.version>5.2.24.RELEASE</spring.mvc.version>
         <javax.version>4.0.1</javax.version>
     </properties>
 
