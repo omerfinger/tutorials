@@ -26,7 +26,7 @@
     </dependencies>
 
     <properties>
-        <pulsar-client.version>2.1.1-incubating</pulsar-client.version>
+        <pulsar-client.version>2.5.1</pulsar-client.version>
     </properties>
 
 </project>
